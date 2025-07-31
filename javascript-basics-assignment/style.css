@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+}
+
+button {
+  margin-right: 1rem;
+  padding: 0.5rem 1rem;
+}
+
+#output {
+  font-weight: bold;
+  margin-top: 1rem;
+}
